@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>veronica yineth maldonado castrillo</Author>
+  <LastAuthor>Full name</LastAuthor>
+  <Created>2020-03-19T15:10:48Z</Created>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>9192</WindowHeight>
+  <WindowWidth>23040</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Verdana" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Verdana" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Verdana"/>
+   <Interior/>
+   <NumberFormat ss:Format="0"/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Verdana"/>
+   <Interior/>
+   <NumberFormat ss:Format="m/d/yy"/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s66">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Verdana"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="6" ss:ExpandedRowCount="7" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="62.400000000000006"
+   ss:DefaultRowHeight="14.4">
+   <Column ss:AutoFitWidth="0" ss:Width="150" ss:Span="5"/>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">created_time</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">adset_name</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">full_name</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">phone_number</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">email</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">city</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2020-03-19T09:04:23.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">CIRUCREDITO INICIAL 2 MILLONES</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Yusleidi Freites</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">3107218438</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">yule-159@hotmail.com</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">cajica</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2020-03-19T05:50:18.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">CIRUCREDITO INICIAL 2 MILLONES</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">kelly marcela mera</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">+573116147860</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">auryc2016@gmail.com</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Cali valle</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2020-03-18T23:55:47.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">CIRUCREDITO INICIAL 2 MILLONES</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Elsa Liliana</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">3205556173</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">lilianamartinez1986@yahoo.es</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">medellin</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2020-03-18T23:36:15.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">CIRUCREDITO INICIAL 2 MILLONES</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Diana Cardona</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">+573157389903</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">stiffnicole0908@gmail.com</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Santiago de Cali</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2020-03-18T23:10:09.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">CIRUCREDITO INICIAL 2 MILLONES</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">monica cubillos</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">+573112798622</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">siemprecontigo2001@hotmail.com</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Medellín</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2020-03-18T22:00:15.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">CIRUCREDITO INICIAL 2 MILLONES</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">María Elvia Sánchez</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">+573128983311</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">maelvia8810@gmail.com</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">El Cerrito</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>7</ActiveRow>
+     <RangeSelection>R8:R14</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

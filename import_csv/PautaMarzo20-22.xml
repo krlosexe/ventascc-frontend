@@ -1,0 +1,511 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Hp</Author>
+  <LastAuthor>Full name</LastAuthor>
+  <Created>2020-03-24T18:11:52Z</Created>
+  <LastSaved>2020-03-24T18:07:29Z</LastSaved>
+  <Version>15.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>7755</WindowHeight>
+  <WindowWidth>20490</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Verdana" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Verdana" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Verdana"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Verdana"/>
+   <Interior/>
+   <NumberFormat ss:Format="m/d/yy"/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s66">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Verdana"/>
+   <Interior/>
+   <NumberFormat ss:Format="0"/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Hoja2">
+  <Table ss:ExpandedColumnCount="6" ss:ExpandedRowCount="51" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="60" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="73.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="129"/>
+   <Column ss:Width="155.25"/>
+   <Column ss:Width="122.25"/>
+   <Column ss:Width="212.25"/>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">created_time</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">adset_name</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">nombre_completo</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">número_de_teléfono</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">correo_electrónico</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ciudad</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2020-03-22T23:02:18.000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">FINANCIACIÓN ESPECIALISTAS FEB-MAR 2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Valentina  Muñoz jaramillo</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">+573225337902</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">valentinamunozjaramillo37@gmail.com</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Medellín</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2020-03-22T22:20:01.000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">FINANCIACIÓN ESPECIALISTAS FEB-MAR 2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Agudelo Lesly</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">+573108496820</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">fraysury.agudelo@corbeta.com.co</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Medellín</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2020-03-22T22:09:44.000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">FINANCIACIÓN ESPECIALISTAS FEB-MAR 2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Bibiana Muñoz</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">+573223842358</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">07noviembre1988@gmail.com</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Medellín</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2020-03-22T21:52:42.000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">FINANCIACIÓN ESPECIALISTAS FEB-MAR 2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Cindy Moreno Torres</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">+573126546940</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">cindy092@hotmail.com</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Medellin</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2020-03-22T21:49:36.000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">FINANCIACIÓN ESPECIALISTAS FEB-MAR 2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">solotinta tattoo</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">+573046792921</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">katy931030@yahoo.es</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Medellin</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2020-03-22T21:38:07.000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">FINANCIACIÓN ESPECIALISTAS FEB-MAR 2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Elizabeth Betancur Garcia</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">+573117990879</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">elizabetancur95@gmail.com</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">El Yolombo</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2020-03-22T20:43:09.000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">FINANCIACIÓN ESPECIALISTAS FEB-MAR 2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Juli Quintero</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">+573103169097</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">erikamariaquinterobedoya@gmail.com</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Medellín</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2020-03-22T20:39:47.000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">FINANCIACIÓN ESPECIALISTAS FEB-MAR 2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Ximena Ossa</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">+573113396607</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">maria_o891122@hotmail.com</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Medellín</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2020-03-22T20:31:19.000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">FINANCIACIÓN ESPECIALISTAS FEB-MAR 2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">García Juli</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">+573226166104</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">kellyguzman1990@hotmail.com</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Medellín</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2020-03-22T20:23:51.000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">FINANCIACIÓN ESPECIALISTAS FEB-MAR 2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Melissa soto</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">+573226595766</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">melissa.soto713@hotmail.com</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Bogotá</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2020-03-22T19:55:17.000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">FINANCIACIÓN ESPECIALISTAS FEB-MAR 2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Mary Sol Durango</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">+573216361698</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">marysol1525@hotmail.com</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Medellín</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2020-03-22T19:21:06.000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">FINANCIACIÓN ESPECIALISTAS FEB-MAR 2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Maria Nubia Montoya Segura</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">+573194514831</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">gomezalberto2759@gmail.com</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Copacabana</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2020-03-22T18:34:39.000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">FINANCIACIÓN ESPECIALISTAS FEB-MAR 2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Eliza Patiño</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">+573023162735</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">dani090793@hotmail.com</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Medellín</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2020-03-22T18:01:37.000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">FINANCIACIÓN ESPECIALISTAS FEB-MAR 2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Dantia Padilla Muñoz</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">+573023767717</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">dantia24@hotmail.com</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">La Ceja</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2020-03-22T17:33:07.000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">FINANCIACIÓN ESPECIALISTAS FEB-MAR 2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Marelvis Torres</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">+573217467256</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">marelvis.torres@tuneldeltoyo.com</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">medellin</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2020-03-22T14:20:15.000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">FINANCIACIÓN ESPECIALISTAS FEB-MAR 2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Ossa Jackelin</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">+573126471577</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">jackelinosa@gmail.com</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Guarne</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2020-03-22T09:39:33.000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">FINANCIACIÓN ESPECIALISTAS FEB-MAR 2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Monica Vasquez</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">+573147677656</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">monicavasquez1985@hotmail.com</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Bello</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2020-03-22T07:23:42.000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">FINANCIACIÓN ESPECIALISTAS FEB-MAR 2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Nathaly Rendon</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">+573004809542</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">nathalyrendon6@gmail.com</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Medellín</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2020-03-21T23:45:48.000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">FINANCIACIÓN ESPECIALISTAS FEB-MAR 2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Ana Maria Perez</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">+573163066492</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">anamarialoperaperez39@gmail.com</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Medellín</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2020-03-21T23:12:56.000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">FINANCIACIÓN ESPECIALISTAS FEB-MAR 2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">aura María</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">+573225312251</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">auramaria18@hotmail.es</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Urrao</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2020-03-21T23:06:05.000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">FINANCIACIÓN ESPECIALISTAS FEB-MAR 2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Michelle Nicole</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">+573046838594</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">olartemichelle5@gmail.com</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Medellín</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2020-03-21T22:54:13.000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">FINANCIACIÓN ESPECIALISTAS FEB-MAR 2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">katherine</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">+573155862479</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">kathyuska.517@hotmail.com</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Medellín</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2020-03-21T21:06:21.000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">FINANCIACIÓN ESPECIALISTAS FEB-MAR 2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Isabel Laso Vidal Ortega</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">+573206811766</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">jenniffermendoza1504@gmail.com</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Medellín</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2020-03-21T20:00:46.000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">FINANCIACIÓN ESPECIALISTAS FEB-MAR 2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Sartori Cata LA O</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">+573192808440</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">catsaulo796@gmail.com</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Medellín</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2020-03-21T18:30:02.000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">FINANCIACIÓN ESPECIALISTAS FEB-MAR 2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Yerlandia becerra rivas</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">3225379914</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">yerlandia69@gmail.com</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Medellín</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2020-03-21T18:13:41.000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">FINANCIACIÓN ESPECIALISTAS FEB-MAR 2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">andrea</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">3122196446</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">sanchezgaviriaandreacarolina@gmail.com</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Medellín</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2020-03-21T17:47:08.000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">FINANCIACIÓN ESPECIALISTAS FEB-MAR 2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Milena Rstrepo</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">+573013311077</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">sarestrepo86@gmail.com</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Medellín</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2020-03-21T17:37:10.000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">FINANCIACIÓN ESPECIALISTAS FEB-MAR 2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Jessica Garate</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">3147462860</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">aleja_agos12@hotmail.es</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Medellin</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2020-03-21T15:32:22.000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">FINANCIACIÓN ESPECIALISTAS FEB-MAR 2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Naty Estrada</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">+573146770609</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">naty22es@hotmail.com</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Medellín</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2020-03-21T15:22:38.000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">FINANCIACIÓN ESPECIALISTAS FEB-MAR 2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Tatiana Jaramillo</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">+573104729972</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">yektati1995@hotmail.es</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Cocorná</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2020-03-21T14:45:42.000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">FINANCIACIÓN ESPECIALISTAS FEB-MAR 2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Llilier Alvarez</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">+573183781417</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">llial123@hotmail.com</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Colombia</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2020-03-21T14:19:03.000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">FINANCIACIÓN ESPECIALISTAS FEB-MAR 2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">karolyna escobar</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">3084489490</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">juanaescobar86@gmail.com</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Medellín</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2020-03-21T14:17:16.000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">FINANCIACIÓN ESPECIALISTAS FEB-MAR 2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">lina marcela</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">+3502910517</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">linamhiguita@hotmail.com</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Medellín</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2020-03-21T12:52:00.000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">FINANCIACIÓN ESPECIALISTAS FEB-MAR 2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">claudiamarcela</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">+573007009851</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">marce.moreno@hotmail.es</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">medelin</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2020-03-21T12:48:51.000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">FINANCIACIÓN ESPECIALISTAS FEB-MAR 2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Isomari Ortiz</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">+573108377938</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">estrellita.jeniffer@hotmail.com</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Medellín</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2020-03-21T10:43:33.000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">FINANCIACIÓN ESPECIALISTAS FEB-MAR 2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Katiana Jael Acevedo Suarez</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">+573165592564</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">katianarojo@hotmail.com</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Medellín</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2020-03-20T09:41:04.000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">FINANCIACIÓN ESPECIALISTAS FEB-MAR 2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Katherine Castañeda Londoño</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">+573147837102</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">kattyy-1301@hotmail.com</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Medellín</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2020-03-20T09:23:03.000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">FINANCIACIÓN ESPECIALISTAS FEB-MAR 2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Kärën Espïnal</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">+573008574325</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">karenvalbuenas123@gmail.com</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Medellín</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2020-03-20T06:37:02.000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">FINANCIACIÓN ESPECIALISTAS FEB-MAR 2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Leidi Andrea Layos Perez</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">+573135588587</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">layosperez80@gmail.com</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Urrao</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2020-03-20T00:06:13.000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">FINANCIACIÓN ESPECIALISTAS FEB-MAR 2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Jessica Restrepo</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">+573113209415</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">yessicare@gmail.com</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">medellin</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2020-03-19T22:57:49.000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">FINANCIACIÓN ESPECIALISTAS FEB-MAR 2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Elizabeth Echavarria Uribe</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">+573104347709</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Elizabeth-uribe@hotmail.com</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Medellín</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2020-03-19T21:00:46.000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">FINANCIACIÓN ESPECIALISTAS FEB-MAR 2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Carmen Ruiz</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">+573013686040</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">carmenrrg@hotmail.com</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Medellín</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2020-03-19T20:00:54.000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">FINANCIACIÓN ESPECIALISTAS FEB-MAR 2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Yenisita Hernadez</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">+573126751648</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">yenni32210320@gmail.com</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Medellín</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2020-03-19T19:11:08.000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">FINANCIACIÓN ESPECIALISTAS FEB-MAR 2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Daniela_cardonam</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">+573217248381</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">dcmsct@gmail.com</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Medellín</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2020-03-19T19:07:05.000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">FINANCIACIÓN ESPECIALISTAS FEB-MAR 2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Elizabeth</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">+573103963786</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">sexilit_14@hotmail.com</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Medellin</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2020-03-19T12:21:40.000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">FINANCIACIÓN ESPECIALISTAS FEB-MAR 2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Sandra Taborda</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">+13136987428</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">sandraztaborda@hotmail.com</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Medellín</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2020-03-19T11:57:34.000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">FINANCIACIÓN ESPECIALISTAS FEB-MAR 2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Luz dary Castañeda Gonzalez</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">287 02 20</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">luzdacas@gmail.com</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Medellín</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2020-03-19T11:15:40.000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">FINANCIACIÓN ESPECIALISTAS FEB-MAR 2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Jessica Gomez Arias</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">+573007288568</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">karladim@hotmail.com</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Medellín</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2020-03-19T10:14:16.000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">FINANCIACIÓN ESPECIALISTAS FEB-MAR 2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Luisa Fernanda Valencia</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">+573128653950</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">luisanan87@gmail.com</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Riosucio</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2020-03-19T10:12:22.000</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">FINANCIACIÓN ESPECIALISTAS FEB-MAR 2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Diana Mejias</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">3145283230</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">dianamejias1998@gmail.com</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Medellín</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>4</ActiveRow>
+     <ActiveCol>8</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

@@ -1,0 +1,279 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>veronica yineth maldonado castrillo</Author>
+  <LastAuthor>Full name</LastAuthor>
+  <Created>2020-03-18T19:25:43Z</Created>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>9192</WindowHeight>
+  <WindowWidth>23040</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Verdana" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Verdana" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Verdana"/>
+   <Interior/>
+   <NumberFormat ss:Format="m/d/yy"/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Verdana"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s66">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Verdana"/>
+   <Interior/>
+   <NumberFormat ss:Format="0"/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="6" ss:ExpandedRowCount="23" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="62.400000000000006"
+   ss:DefaultRowHeight="14.55">
+   <Column ss:AutoFitWidth="0" ss:Width="150" ss:Span="5"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">created_time</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">adset_name</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">full_name</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">phone_number</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">email</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">city</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">2020-03-18T10:14:02.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">CIRUCREDITO INICIAL 2 MILLONES</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Janeth Acevedo</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">+573177796748</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ximenaacevedorodriguez@gmail.com</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Santiago de Cali</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">2020-03-18T09:30:57.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">CIRUCREDITO INICIAL 2 MILLONES</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Natalia Pinillos</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">+573184434278</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">robincorreu@hotmail.com</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Medellín</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">2020-03-18T06:40:41.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">CIRUCREDITO INICIAL 2 MILLONES</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Yeniffer Restrepo</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">+573128016475</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">yeniffer0712@hotmail.com</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Medellín</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">2020-03-18T06:17:45.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">CIRUCREDITO INICIAL 2 MILLONES</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Liliana Alvarez Cardona</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">+573165743603</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">lilianaalvarez31@yahoo.com</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">zarzal</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">2020-03-18T01:29:13.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">CIRUCREDITO INICIAL 2 MILLONES</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Angie Arboleda</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">+573194593751</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">angelikarboleda1990@hotmail.com</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MEDELLIN</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">2020-03-17T22:08:51.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">CIRUCREDITO INICIAL 2 MILLONES</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Darlyng Sanchez</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">+573214443873</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">blackhole-100026839149845-1529673481@devnull.facebook.com</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Candelaria</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">2020-03-17T20:42:31.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">CIRUCREDITO INICIAL 2 MILLONES</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Susana</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">+573104485945</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">xuxan8601@gmail.com</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Bello-Antioquia</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">2020-03-17T20:22:40.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">CIRUCREDITO INICIAL 2 MILLONES</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Hellen Lopez</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">+573116661131</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">gacher_castro2021@hotmail.com</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Santiago de Cali</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">2020-03-17T20:20:40.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">CIRUCREDITO INICIAL 2 MILLONES</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Monica Trujillo cuero</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">+573186503885</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">panatagui37@gmail.com</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Palmira</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">2020-03-17T19:49:20.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">CIRUCREDITO INICIAL 2 MILLONES</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Liliana Carmona</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">+573014237480</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">lilianacc10@hotmail.com</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Medellín</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">2020-03-17T19:34:22.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">CIRUCREDITO INICIAL 2 MILLONES</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Fernanda Herrera</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">+573154534960</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">francini6683@hotmail.com</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Santiago de Cali</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">2020-03-17T18:35:33.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">CIRUCREDITO INICIAL 2 MILLONES</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Dianys Ilem</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">+573172188316</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">dyanylem77@hotmail.com</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Cali valle Colombia</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">2020-03-17T18:00:54.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">CIRUCREDITO INICIAL 2 MILLONES</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Paloma Nuñez</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">300 550 89 76</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">gordis-paloma@hotmail.com</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Medellín</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">2020-03-17T17:27:23.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">CIRUCREDITO INICIAL 2 MILLONES</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Daniela Miranda</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">+573167157389</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">miranditapnany@hotmail.com</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Santander de Quilichao</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">2020-03-17T16:48:25.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">CIRUCREDITO INICIAL 2 MILLONES</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Maritza Sinisterra</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">+573145754486</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">pepasalijna103@gmail.com</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">cali</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">2020-03-17T16:35:25.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">CIRUCREDITO INICIAL 2 MILLONES</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Thais Guaza Carabali</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">+573105076998</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">thais-1592@hotmail.com</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Santiago de Cali</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">2020-03-17T12:32:26.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">CIRUCREDITO INICIAL 2 MILLONES</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Luz Dary Cifuentes Valencia</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">3154592947</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">luzda132@hotmail.com</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">El Cerrito</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">2020-03-17T12:29:49.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">CIRUCREDITO INICIAL 2 MILLONES</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Maria Belkys Velasquez Belalcazar</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">+573122944568</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">mariabelkys123@gmail.com</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Santiago de Cali</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">2020-03-17T12:07:12.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">CIRUCREDITO INICIAL 2 MILLONES</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">katiana Mendoza</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">+573206056157</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">katiana_1987@hotmail.com</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Medellín</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">2020-03-17T08:23:14.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">CIRUCREDITO INICIAL 2 MILLONES</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ingrid Ingrid</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">3167589732</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">sugey0583@hotmail.com</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Santiago de Cali</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">2020-03-17T07:41:02.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">CIRUCREDITO INICIAL 2 MILLONES</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ingrid Mina</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">+573178901461</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">morocha-95-29@hotmail.com</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Cali</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="DateTime">2020-03-17T06:04:13.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">CIRUCREDITO INICIAL 2 MILLONES</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Anais  Quiroz</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">+573163108559</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">osiristorrealba@gmail.com</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Medellin - bello</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Unsynced/>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>23</ActiveRow>
+     <RangeSelection>R24:R764</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

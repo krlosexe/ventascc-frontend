@@ -1,0 +1,420 @@
+body{
+	background-image: url("../img/back.png") !important;
+}
+
+.bg-login-image{
+	background: #eee;
+	background-image: url("../img/logo.png");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: 100% 50%;
+}
+
+.dasboard-body{
+	background: #4e73df !important;
+}
+
+
+.hidden{
+	display: none;
+}
+
+
+
+#page-loader {
+position: fixed;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+z-index: 1000;
+background: #FFF none repeat scroll 0% 0%;
+z-index: 99999;
+}
+#page-loader .preloader-interior {
+    display: block;
+    position: relative;
+    left: 50%;
+    top: 50%;
+    width: 150px;
+    height: 150px;
+    margin: -75px 0 0 -75px;
+    border-radius: 50%;
+    border: 3px solid transparent;
+    border-top-color: #3498db;
+ 
+    -webkit-animation: spin 2s linear infinite; /* Chrome, Opera 15+, Safari 5+ */
+          animation: spin 2s linear infinite; /* Chrome, Firefox 16+, IE 10+, Opera */
+}
+#page-loader .preloader-interior:before {
+    content: "";
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    bottom: 5px;
+    border-radius: 50%;
+    border: 3px solid transparent;
+    border-top-color: #e74c3c;
+ 
+    -webkit-animation: spin 3s linear infinite; /* Chrome, Opera 15+, Safari 5+ */
+      animation: spin 3s linear infinite; /* Chrome, Firefox 16+, IE 10+, Opera */
+}
+ 
+#page-loader .preloader-interior:after {
+    content: "";
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    right: 15px;
+    bottom: 15px;
+    border-radius: 50%;
+    border: 3px solid transparent;
+    border-top-color: #f9c922;
+ 
+    -webkit-animation: spin 1.5s linear infinite; /* Chrome, Opera 15+, Safari 5+ */
+      animation: spin 1.5s linear infinite; /* Chrome, Firefox 16+, IE 10+, Opera */
+}
+ 
+@-webkit-keyframes spin {
+    0%   { 
+        -webkit-transform: rotate(0deg);  /* Chrome, Opera 15+, Safari 3.1+ */
+        -ms-transform: rotate(0deg);  /* IE 9 */
+        transform: rotate(0deg);  /* Firefox 16+, IE 10+, Opera */
+    }
+    100% {
+        -webkit-transform: rotate(360deg);  /* Chrome, Opera 15+, Safari 3.1+ */
+        -ms-transform: rotate(360deg);  /* IE 9 */
+        transform: rotate(360deg);  /* Firefox 16+, IE 10+, Opera */
+    }
+}
+@keyframes spin {
+    0%   { 
+        -webkit-transform: rotate(0deg);  /* Chrome, Opera 15+, Safari 3.1+ */
+        -ms-transform: rotate(0deg);  /* IE 9 */
+        transform: rotate(0deg);  /* Firefox 16+, IE 10+, Opera */
+    }
+    100% {
+        -webkit-transform: rotate(360deg);  /* Chrome, Opera 15+, Safari 3.1+ */
+        -ms-transform: rotate(360deg);  /* IE 9 */
+        transform: rotate(360deg);  /* Firefox 16+, IE 10+, Opera */
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Customize the label (the container-check) */
+.container-check {
+  display: block;
+  position: relative;
+  padding-left: 35px;
+  margin-bottom: 12px;
+  cursor: pointer;
+  font-size: 22px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* Hide the browser's default checkbox */
+.container-check input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+/* Create a custom checkbox */
+.checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 25px;
+  width: 25px;
+  background-color: #ccc;
+  border: 4px solid #999;
+}
+
+/* On mouse-over, add a grey background color */
+.container-check:hover input ~ .checkmark {
+  background-color: #ccc;
+}
+
+/* When the checkbox is checked, add a blue background */
+.container-check input:checked ~ .checkmark {
+  background-color: #2196F3;
+  border: none;
+}
+
+/* Create the checkmark/indicator (hidden when not checked) */
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+/* Show the checkmark when checked */
+.container-check input:checked ~ .checkmark:after {
+  display: block;
+}
+
+/* Style the checkmark/indicator */
+.container-check .checkmark:after {
+  left: 9px;
+  top: 5px;
+  width: 5px;
+  height: 10px;
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+.col-green {
+  color: #4CAF50 !important;
+}
+
+
+.col-red {
+  color: #F44336 !important;
+}
+
+.select2-container .select2-selection--single{
+  height: 41px !important;
+  padding-top: 6px;
+  padding-left: 6px;
+  border-radius: 57px !important;
+  border: 1px solid #d1d3e2 !important;
+  color: #d1d3e2 !important;
+}
+
+
+.select2-container--default .select2-selection--single .select2-selection__rendered{
+  color: #777 !important;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__arrow{
+  top: 8px !important;
+}
+
+
+
+
+
+
+
+
+.calendar-event .card-block { position: relative; }
+
+.calendar-event .add-event { position: absolute; top: -22px; z-index: 9; right: 25px; border: 0px; font-size: 20px; padding: 7px 12px; border-radius: 50%; }
+
+.calendar-event .event-list { padding-left: 0; list-style: none; }
+
+.calendar-event .event-list .event-items { margin-bottom: 20px; position: relative; }
+
+.calendar-event .event-list .event-items > a { display: block; color: #888da8; }
+
+.calendar-event .event-list .event-items > a:hover { color: #4b4f66; }
+
+.calendar-event .event-list .event-items .remove { position: absolute; right: 0px; top: 12px; font-size: 20px; transition: all 0.3s ease-in-out; -webkit-transition: all 0.3s ease-in-out; -moz-transition: all 0.3s ease-in-out; -o-transition: all 0.3s ease-in-out; -ms-transition: all 0.3s ease-in-out; }
+
+.calendar-event .event-list .event-items .event-name { font-weight: bold; border: 0px; padding: 0px 10px; }
+
+.calendar-event .event-list .event-items .event-detail { padding-left: 25px; }
+
+.calendar-event .event-list .event-items .bullet { width: 10px; height: 10px; display: inline-block; border-radius: 50%; background-color: #ffffff; border: 3px solid; border-color: #f6f7fb; }
+
+.calendar-event .event-list .event-items .bullet.success { border-color: #37c936; }
+
+.calendar-event .event-list .event-items .bullet.warning { border-color: #ffcc00; }
+
+.calendar-event .event-list .event-items .bullet.danger { border-color: #ff3c7e; }
+
+
+
+
+
+
+
+
+.calendar-event .card { position: relative; background-color: #ffffff; margin-bottom: 30px; border: 1px solid #e6ecf5; border-radius: 5px; transition: all 0.3s ease-in-out; -webkit-transition: all 0.3s ease-in-out; -moz-transition: all 0.3s ease-in-out; -o-transition: all 0.3s ease-in-out; -ms-transition: all 0.3s ease-in-out; }
+
+.calendar-event .card.bg-primary, .calendar-event .card.bg-success, .calendar-event .card.bg-info, .calendar-event .card.bg-warning, .calendar-event .card.bg-danger { color: #e6e5e5; }
+
+.calendar-event .card.bg-primary h1, .calendar-event .card.bg-primary h2, .calendar-event .card.bg-primary h3, .calendar-event .card.bg-primary h4, .calendar-event .card.bg-primary h5, .calendar-event .card.bg-primary h6, .calendar-event .card.bg-success h1, .calendar-event .card.bg-success h2, .calendar-event .card.bg-success h3, .calendar-event .card.bg-success h4, .calendar-event .card.bg-success h5, .calendar-event .card.bg-success h6, .calendar-event .card.bg-info h1, .calendar-event .card.bg-info h2, .calendar-event .card.bg-info h3, .calendar-event .card.bg-info h4, .calendar-event .card.bg-info h5, .calendar-event .card.bg-info h6, .calendar-event .card.bg-warning h1, .calendar-event .card.bg-warning h2, .calendar-event .card.bg-warning h3, .calendar-event .card.bg-warning h4, .calendar-event .card.bg-warning h5, .calendar-event .card.bg-warning h6, .calendar-event .card.bg-danger h1, .calendar-event .card.bg-danger h2, .calendar-event .card.bg-danger h3, .calendar-event .card.bg-danger h4, .calendar-event .card.bg-danger h5, .calendar-event .card.bg-danger h6 { color: #ffffff; }
+
+.calendar-event .card.bg-primary p, .calendar-event .card.bg-success p, .calendar-event .card.bg-info p, .calendar-event .card.bg-warning p, .calendar-event .card.bg-danger p { color: #e6e5e5; }
+
+.calendar-event .card .calendar-event .card-heading { padding: 15px 20px; position: relative; }
+
+.calendar-event .card .calendar-event .card-heading .calendar-event .card-title { margin-bottom: 0px; }
+
+.calendar-event .card .calendar-event .card-body { padding: 15px 20px; }
+
+.calendar-event .card .calendar-event .card-footer { position: relative; padding: 10px 15px 10px 15px; min-height: 55px; background-color: transparent; }
+
+.calendar-event .card .calendar-event .card-footer .btn { margin: 0px; }
+
+.calendar-event .card .calendar-event .card-footer .btn-flat { font-size: 13px; text-transform: uppercase; }
+
+.calendar-event .card .calendar-event .card-horizon { padding: 0px; position: relative; }
+
+.calendar-event .card .calendar-event .card-horizon .image-container { overflow: hidden; position: absolute; height: 100%; padding: 0px; top: 0px; }
+
+@media only screen and (max-width: 767px) { .calendar-event .card .calendar-event .card-horizon .image-container { position: static; } }
+
+.calendar-event .card .calendar-event .card-horizon .calendar-event .card-body { position: relative; }
+
+.calendar-event .card .calendar-event .card-horizon .background-holder { position: relative; top: 0px; left: 0px; width: 100%; height: 100%; background-size: cover; background-position: center center; background-repeat: no-repeat; z-index: 0; }
+
+@media only screen and (max-width: 767px) { .calendar-event .card .calendar-event .card-horizon .background-holder { min-height: 350px; } }
+
+.calendar-event .card .calendar-event .card-horizon .background-holder.has-content { display: table; }
+
+.calendar-event .card .calendar-event .card-horizon .background-holder.has-content .content { display: table-cell; vertical-align: middle; padding: 0px 15px; }
+
+.calendar-event .card:before { content: ""; position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; z-index: 2; visibility: hidden; opacity: 0; background: #ffffff; /* The Fallback */ background: rgba(255, 255, 255, 0.85); transition: all 0.3s ease-in-out; -webkit-transition: all 0.3s ease-in-out; -moz-transition: all 0.3s ease-in-out; -o-transition: all 0.3s ease-in-out; -ms-transition: all 0.3s ease-in-out; }
+
+.calendar-event .card-block { padding: 30px; }
+
+.portlet { position: absolute; top: 0px; right: 0px; z-index: 1; }
+
+.portlet .portlet-item { list-style: none; padding: 18px 20px; }
+
+.portlet .portlet-item > li { display: inline-block; margin-right: 3px; }
+
+.portlet .portlet-item > li > a { margin-bottom: 0px; margin-right: 0px; padding: 5px 6px; font-size: 12px; line-height: 1; }
+
+.portlet .dropdown-menu { -webkit-transform-origin: top right; -moz-transform-origin: top right; -ms-transform-origin: top right; transform-origin: top right; transform: scale(0, 0); -webkit-transform: scale(0, 0); -moz-transform: scale(0, 0); -o-transform: scale(0, 0); -ms-transform: scale(0, 0); transition: transform 150ms ease-out; -webkit-transition: transform 150ms ease-out; -moz-transition: transform 150ms ease-out; -o-transition: transform 150ms ease-out; -ms-transition: transform 150ms ease-out; display: block; margin: 0px; border-radius: 0px; left: auto; right: -10px; }
+
+.portlet .show .dropdown-menu { transform: scale(1, 1); -webkit-transform: scale(1, 1); -moz-transform: scale(1, 1); -o-transform: scale(1, 1); -ms-transform: scale(1, 1); }
+
+.calendar-event .card-title { font-family: Roboto, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif; color: #515365; margin-top: 0px; margin-bottom: 15px; }
+
+.calendar-event .card-media { position: relative; }
+
+.calendar-event .card-media img { width: 100%; }
+
+.calendar-event .card-refresh:before { visibility: visible; opacity: 1; }
+
+.calendar-event .card-refresh:after { content: ""; position: absolute; top: calc(50% - 20px); left: calc(50% - 20px); border: 3px solid #e6ecf5; /* Light grey */ border-top: 3px solid #7774e7; /* Blue */ border-radius: 50%; width: 40px; height: 40px; z-index: 3; -webkit-animation: spin 1.2s linear infinite; -moz-animation: spin 1.2s linear infinite; -ms-animation: spin 1.2s linear infinite; -o-animation: spin 1.2s linear infinite; animation: spin 1.2s linear infinite; transform: translateX(-50%) translateY(-50%); -webkit-transform: translateX(-50%) translateY(-50%); -moz-transform: translateX(-50%) translateY(-50%); -o-transform: translateX(-50%) translateY(-50%); -ms-transform: translateX(-50%) translateY(-50%); }
+
+
+a.calendar-event .card { display: block; }
+
+a.calendar-event .card:hover, a.calendar-event .card:focus { -webkit-box-shadow: 0 7px 15px rgba(0, 0, 0, 0.075) ; -moz-box-shadow: 0 7px 15px rgba(0, 0, 0, 0.075) ; box-shadow: 0 7px 15px rgba(0, 0, 0, 0.075) ; }
+
+.calendar-event .calendar-event .card-block { position: relative; }
+
+
+.bg {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+
+.overlay-dark:before {
+  content: "";
+  background-color: #515365;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  opacity: 0.5;
+  top: 0px;
+  left: 0px;
+  z-index: 2;
+}
+
+
+.text-light {
+  font-weight: 300 !important;
+}
+.font-size-65 {
+  font-size: 65px !important;
+}
+.lh-1 {
+  line-height: 1 !important;
+}
+.mrg-btm-5 {
+  margin-bottom: 5px !important;
+}
+.text-light {
+  color: #f8f9fa !important;
+}
+
+
+.font-size-18 {
+  font-size: 18px !important;
+}
+
+.lh-1 {
+  line-height: 1 !important;
+}
+
+.text-light {
+  color: #f8f9fa !important;
+}
+
+
+button, input, textarea {
+  outline: none; 
+}
+
+.overlay-dark h2 {
+  color: #ffffff;
+}
+
+.no-mrg-top {
+  margin-top: 0 !important;
+}
+h2 {
+  font-size: 22px;
+}
+
+
+.overlay-dark > div {
+  position: relative;
+  z-index: 3;
+}
+
+.calendar-event .event-list .event-items > a {
+  display: block;
+  color: #888da8;
+}
+
+.calendar-event .event-list .event-items {
+  margin-bottom: 20px;
+  position: relative;
+}
+
+a {
+  color: #007bff;
+  text-decoration: none;
+  background-color: transparent;
+  -webkit-text-decoration-skip: objects;
+}
+a:hover {
+  color: #007bff;
+  text-decoration: none;
+  background-color: transparent;
+  -webkit-text-decoration-skip: objects;
+}
